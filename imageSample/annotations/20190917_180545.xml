@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imageSample</folder>
+	<filename>20190917_180545.jpg</filename>
+	<path>C:\Users\ys0star\Desktop\graWork\imageSample\20190917_180545.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>2268</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lipstick</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1352</xmin>
+			<ymin>742</ymin>
+			<xmax>2536</xmax>
+			<ymax>1321</ymax>
+		</bndbox>
+	</object>
+</annotation>
